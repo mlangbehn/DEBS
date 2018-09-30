@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kastentx/DEBS#readme",
   "dependencies": {
+    "eslint": "^5.6.1",
     "express": "^4.16.3",
     "pouchdb-node": "^7.0.0"
   }

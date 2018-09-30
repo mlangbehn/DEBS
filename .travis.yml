@@ -1,0 +1,10 @@
+---
+language: node_js
+node_js: lts/*
+
+before_install:
+  - npm install eslint
+
+install: npm install
+
+script: "./tests/test-eslint.sh"
