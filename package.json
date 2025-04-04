@@ -19,6 +19,6 @@
   "homepage": "https://github.com/kastentx/DEBS#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "pouchdb-node": "^7.0.0"
+    "pouchdb-node": "^9.0.0"
   }
 }
